@@ -1,0 +1,59 @@
+D:\Kiracrack\MY.NET\Development Tool\Development Tool\bin\Debug\Development Tool.exe
+D:\Kiracrack\MY.NET\Development Tool\Development Tool\bin\Debug\Development Tool.pdb
+D:\Kiracrack\MY.NET\Development Tool\Development Tool\bin\Debug\Development Tool.xml
+D:\Kiracrack\MY.NET\Development Tool\Development Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Kiracrack\MY.NET\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmMain.resources
+D:\Kiracrack\MY.NET\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.Resources.resources
+D:\Kiracrack\MY.NET\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmMysqlStatementConverter.resources
+D:\Kiracrack\MY.NET\Development Tool\Development Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Kiracrack\MY.NET\Development Tool\Development Tool\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Kiracrack\MY.NET\Development Tool\Development Tool\obj\x86\Debug\Development Tool.exe
+D:\Kiracrack\MY.NET\Development Tool\Development Tool\obj\x86\Debug\Development Tool.xml
+D:\Kiracrack\MY.NET\Development Tool\Development Tool\obj\x86\Debug\Development Tool.pdb
+D:\My.Net\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmMain.resources
+D:\My.Net\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.Resources.resources
+D:\My.Net\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmConnectionSetup.resources
+D:\My.Net\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmMysqlMigrationTool.resources
+D:\My.Net\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmMysqlColumnToRowConverter.resources
+D:\My.Net\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmMysqlStatementConverter.resources
+D:\My.Net\Development Tool\Development Tool\obj\x86\Debug\Development Tool.vbproj.GenerateResource.Cache
+D:\My.Net\Development Tool\Development Tool\bin\Debug\Development Tool.exe
+D:\My.Net\Development Tool\Development Tool\bin\Debug\Development Tool.pdb
+D:\My.Net\Development Tool\Development Tool\bin\Debug\Development Tool.xml
+D:\My.Net\Development Tool\Development Tool\obj\x86\Debug\Development Tool.exe
+D:\My.Net\Development Tool\Development Tool\obj\x86\Debug\Development Tool.xml
+D:\My.Net\Development Tool\Development Tool\obj\x86\Debug\Development Tool.pdb
+D:\My.Net\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmMysqlMigrationTool_review.resources
+D:\My.Net\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmDatabaseResetter.resources
+D:\My.Net\Development Tool\Development Tool\obj\x86\Debug\Development Tool.vbprojResolveAssemblyReference.cache
+D:\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development Tool.exe
+D:\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development Tool.xml
+D:\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development Tool.pdb
+D:\My.Net\System Core\Development Tool\Development Tool\bin\Debug\Development Tool.exe
+D:\My.Net\System Core\Development Tool\Development Tool\bin\Debug\Development Tool.pdb
+D:\My.Net\System Core\Development Tool\Development Tool\bin\Debug\Development Tool.xml
+D:\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmMain.resources
+D:\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.Resources.resources
+D:\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmDatabaseResetter.resources
+D:\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmMysqlMigrationTool_review.resources
+D:\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmConnectionSetup.resources
+D:\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmMysqlMigrationTool.resources
+D:\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmMysqlColumnToRowConverter.resources
+D:\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmMysqlStatementConverter.resources
+D:\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development Tool.vbproj.GenerateResource.Cache
+C:\My Files\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development Tool.exe
+C:\My Files\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development Tool.xml
+C:\My Files\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development Tool.pdb
+C:\My Files\My.Net\System Core\Development Tool\Development Tool\bin\Debug\Development Tool.exe
+C:\My Files\My.Net\System Core\Development Tool\Development Tool\bin\Debug\Development Tool.pdb
+C:\My Files\My.Net\System Core\Development Tool\Development Tool\bin\Debug\Development Tool.xml
+C:\My Files\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmMain.resources
+C:\My Files\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.Resources.resources
+C:\My Files\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmDatabaseResetter.resources
+C:\My Files\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmMysqlMigrationTool_review.resources
+C:\My Files\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmConnectionSetup.resources
+C:\My Files\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmMysqlMigrationTool.resources
+C:\My Files\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmMysqlColumnToRowConverter.resources
+C:\My Files\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development_Tool.frmMysqlStatementConverter.resources
+C:\My Files\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development Tool.vbproj.GenerateResource.Cache
+C:\My Files\My.Net\System Core\Development Tool\Development Tool\obj\x86\Debug\Development Tool.vbprojResolveAssemblyReference.cache
